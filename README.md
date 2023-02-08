@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GinoTateo
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 👀 I’m interested in Full Stack software development
+- 🌱 I’m currently learning React
 - 📫 How to reach me https://www.linkedin.com/in/ginotateo/
 
 <!---
