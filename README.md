@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GinoTateo
-- 👀 I’m interested in Full Stack software development
+- 👀 I’m interested in full stack software development
 - 🌱 I’m currently learning React
 - 📫 How to reach me https://www.linkedin.com/in/ginotateo/
 
