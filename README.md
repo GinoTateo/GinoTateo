@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GinoTateo
 - 👀 I’m interested in full stack software development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently looking for new opportunities
 - 📫 How to reach me https://www.linkedin.com/in/ginotateo/
 
 <!---
